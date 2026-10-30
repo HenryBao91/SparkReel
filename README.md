@@ -14,7 +14,7 @@
 
 <p>
   <a href="https://www.scnet.cn/ui/aihub/agent/openaimodels/Sparkreel">
-    <img src="images/logo.png" width="320" alt="访问 SCNet 官网免费体验 / Visit the official website" />
+    <img src="images/SparkReel_CTA.png" width="320" alt="访问 SCNet 官网免费体验 / Visit the official website" />
   </a>
 </p>
 
