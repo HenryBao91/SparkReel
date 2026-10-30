@@ -6,7 +6,7 @@
 
 [![MiniMax Version](https://img.shields.io/badge/MiniMax-H3-4FC08D?style=flat&)]()
 [![SCNet](https://img.shields.io/badge/SCNet-646CFF?style=flat&logo=SCNet)]()
-[![Docker](https://img.shields.io/badge/Video-SparkReel-2490ED?style=flat&logo=docker)](https://hub.docker.com/r/henrybrain91/sparkreel)
+[![Docker](https://img.shields.io/badge/Video-SparkReel-2490ED?style=flat)](https://hub.docker.com/r/henrybrain91/sparkreel)
 [![License](https://img.shields.io/badge/License-%20MIT-lightgreen.svg)]()
 
 [功能特性](#-功能特性) • [快速开始](#-快速开始) • [图文教程](#-图文教程) 
